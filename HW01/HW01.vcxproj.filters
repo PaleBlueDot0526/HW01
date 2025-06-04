@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HW01.cpp">
+    <ClCompile Include="required_feature.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_feature.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
